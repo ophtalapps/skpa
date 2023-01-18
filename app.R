@@ -10,7 +10,7 @@ library(shinybusy)
 library(plotly)
 library(shinythemes)
 library(purrr)
-renv::clean()
+
 css <- "
 .nowrap {
   white-space: nowrap;
